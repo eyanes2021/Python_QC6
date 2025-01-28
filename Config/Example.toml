@@ -1,0 +1,15 @@
+# Config File to Store CAEN Information
+[CAEN_INFO]
+Name = "Detector1"
+System_Type = "SYX527"
+Slot = 0
+
+[Link]
+link_type1 = "TCPIP"
+IP_Address = "XXX.XXX.XXX.XXX"
+username = "banana"
+password = "banana"
+
+[Detector_Info]
+isTGEM = true
+Layer = 1
