@@ -5,7 +5,7 @@ System_Type = "SYX527"
 Slot = 0
 
 [Link]
-link_type1 = "TCPIP"
+link_type = "TCPIP"
 IP_Address = "XXX.XXX.XXX.XXX"
 username = "banana"
 password = "banana"

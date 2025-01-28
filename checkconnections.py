@@ -37,7 +37,7 @@ def connect(config):
         sys.exit()
  # Checking Link Type        
     try:
-        link_type = LinkType[data["Link"]["link_type1"]]
+        link_type = LinkType[data["Link"]["link_type"]]
     except:
         print(colored("Issue with Link Type","red"))
         sys.exit()
