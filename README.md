@@ -43,6 +43,10 @@ Use -h for help with any of the scripts
 
 `longstabilitytest.py` : Ramps up the voltages and then holds them for 15 hours while monitoring the number of trips
 
+## Instruction Manual
+A more detailed instruction manual can be found with the following link:
+	https://research.fit.edu/media/site-specific/researchfitedu/hep/heplaba/documents/publications-and-reports/internal-research-reports/UG_research_JohnHernandez_Python-Based-QC6-software-CMS-GEMs--Report-and-Instructions_Fall24.pdf
+
 ## Future Work
 
 These scripts are designed to be generalized for use with other detectors and CAEN systems. Currently tests have been done using a GE2/1 M6 and M7 module with a SY5527, but further support is being working on.
